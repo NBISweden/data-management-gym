@@ -1,2 +1,2 @@
 # data-management-gym
-Repository for Data Management session modules
+Repository for Data Management training session modules
